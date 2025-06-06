@@ -8,6 +8,9 @@ dependencies = [
     "httpx>=0.28.1",
     "langchain>=0.3.25",
     "langchain-community>=0.3.24",
+    "langchain-groq>=0.3.2",
     "langchain-ollama>=0.3.3",
     "mcp[cli]>=1.9.3",
+    "pydantic>=2.11.5",
+    "python-dotenv>=1.1.0",
 ]

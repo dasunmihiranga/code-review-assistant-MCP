@@ -2,5 +2,7 @@ mcp[cli]
 langchain
 langchain-community
 langchain-ollama
+langchain-groq
 httpx
-python-dotenv 
+python-dotenv
+pydantic 
