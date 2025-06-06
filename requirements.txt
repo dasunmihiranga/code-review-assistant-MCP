@@ -1,0 +1,5 @@
+mcp[cli]
+langchain
+langchain-community
+langchain-ollama
+httpx 

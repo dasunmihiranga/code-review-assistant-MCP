@@ -1,0 +1,1 @@
+# Placeholder for syntax check prompt template 
