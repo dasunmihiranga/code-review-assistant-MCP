@@ -1,5 +1,9 @@
 # Code Review Assistant
 
+![Code Review Assistant Architecture - visual selection](https://github.com/user-attachments/assets/f8d851d3-2481-4ab6-89d7-16849d247a47)
+
+![Code Review Assistant Architecture - visual selection (1)](https://github.com/user-attachments/assets/cac7a03d-79ff-481c-9a4c-9871c5550783)
+
 ## Project Description
 
 The Code Review Assistant is a simple multi-agent system built using the Model Context Protocol (MCP) and LangChain. Its purpose is to provide automated, preliminary feedback on code snippets, including syntax checking, code explanation, and improvement suggestions. It can be integrated with MCP-compatible clients like Cursor IDE or Claude for Desktop.
